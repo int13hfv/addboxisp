@@ -19,6 +19,6 @@
   greylist=on hidegreylist=on\
   passwd=$password name=$username\
   sok=ok\
-  /
+  
 
 done ; } < $1
