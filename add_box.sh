@@ -18,6 +18,7 @@
   domainname=$domainname\
   greylist=on hidegreylist=on\
   passwd=$password name=$username\
-  sok=ok
+  sok=ok\
+  /
 
 done ; } < $1
