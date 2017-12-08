@@ -14,7 +14,7 @@
 	username=${mailbox%@*} 
 
   /usr/local/mgr5/sbin/mgrctl\
-	-m ispmgr email.edit\
+  -m ispmgr email.edit\
   domainname=$domainname\
   greylist=on hidegreylist=on\
   passwd=$password name=$username\
