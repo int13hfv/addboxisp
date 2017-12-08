@@ -1,0 +1,10 @@
+user1@foo.bar sdfsdfsdf
+user2@foo.bar vxcvxcvxcvfjslkdfjslkdf
+user3@foo.bar fjxcvxcvxcvslkdfjslxcvxcvkdf
+user4@foo.bar 1@@@fjslkdfjslkxcvvvdf
+user5@foo.bar zzzfjs@fdfsdflkdfjslkdf
+user6@foo.bar @aaaafjslkdfjslf223232323kdf
+user7@foo.bar @@@fdfdffjslkdfjslkdfffssdfsdfsdf
+user8@foo.bar 4dsfjslkdfjslkdf22222
+user9@foo.bar 56656561fjslkdfjslkdf
+user10@foo.bar 5456fjslkdfjslkdf
