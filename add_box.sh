@@ -8,6 +8,13 @@
 # username@domainname.tld somepassword
 #
 
+if [ -z "$1" ]
+then
+echo "No file with data 'username@mail.tld passwd' found! " 
+exit
+fi
+
+
 { while IFS=' ' read  mailbox password ; do
 	
 	domainname=${mailbox##*@} 
